@@ -1,0 +1,351 @@
+{
+    "timeline": [
+        {
+            "id": 1,
+            "title": "Class 10th Exams",
+            "date": "March 2024",
+            "description": "Board exams are a major step towards your career. Stay focused and prepare well."
+        },
+        {
+            "id": 2,
+            "title": "Stream Selection",
+            "date": "May 2024",
+            "description": "Choose between Science, Commerce, and Arts based on your interests and goals."
+        },
+        {
+            "id": 3,
+            "title": "Class 12th Exams",
+            "date": "March 2026",
+            "description": "Your final board exams. High scores can open up better college opportunities."
+        },
+        {
+            "id": 4,
+            "title": "JEE/NEET Entrance",
+            "date": "April 2026",
+            "description": "Important entrance exams for aspiring engineers and doctors.",
+            "details": {
+                "eligibility": "Passed 12th class with Physics, Chemistry, and Mathematics/Biology.",
+                "syllabus": "Based on 11th and 12th class NCERT syllabus. Focus on core concepts.",
+                "preparation": [
+                    "Solve previous year's question papers.",
+                    "Take mock tests regularly.",
+                    "Focus on time management and speed."
+                ],
+                "links": [
+                    {"text": "Official JEE Main Website", "url": "https://jeemain.nta.ac.in/"},
+                    {"text": "Official NEET Website", "url": "https://neet.nta.nic.in/"}
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "UPSC CSE Prelims",
+            "date": "May 2026",
+            "description": "Union Public Service Commission Civil Services Examination preliminary stage.",
+            "details": {
+                "eligibility": "Must hold a Bachelor's degree from a recognized university.",
+                "syllabus": "General Studies (GS) and Civil Services Aptitude Test (CSAT).",
+                "preparation": [
+                    "Read current affairs from newspapers.",
+                    "Practice CSAT questions to improve aptitude.",
+                    "Study key government reports and policies."
+                ],
+                "links": [
+                    {"text": "Official UPSC Website", "url": "https://www.upsc.gov.in/"}
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "title": "SSC CGL Tier 1",
+            "date": "June 2026",
+            "description": "Staff Selection Commission Combined Graduate Level Tier 1 exam.",
+            "details": {
+                "eligibility": "Bachelor's degree from a recognized university.",
+                "syllabus": "General Intelligence & Reasoning, General Awareness, Quantitative Aptitude, English Comprehension.",
+                "preparation": [
+                    "Focus on improving calculation speed.",
+                    "Study General Awareness from reliable sources.",
+                    "Practice a variety of questions from different topics."
+                ],
+                "links": [
+                    {"text": "Official SSC Website", "url": "https://ssc.nic.in/"}
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "IBPS PO Prelims",
+            "date": "October 2026",
+            "description": "Institute of Banking Personnel Selection Probationary Officer preliminary exam.",
+            "details": {
+                "eligibility": "Graduate in any discipline from a recognized university.",
+                "syllabus": "English Language, Quantitative Aptitude, and Reasoning Ability.",
+                "preparation": [
+                    "Solve mock tests under a time limit.",
+                    "Improve speed and accuracy.",
+                    "Read newspapers to improve English and General Awareness."
+                ],
+                "links": [
+                    {"text": "Official IBPS Website", "url": "https://www.ibps.in/"}
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "title": "RRB NTPC CBT 1",
+            "date": "November 2026",
+            "description": "Railway Recruitment Board Non-Technical Popular Categories computer-based test.",
+            "details": {
+                "eligibility": "12th pass or equivalent for undergraduate posts; graduate degree for graduate posts.",
+                "syllabus": "Mathematics, General Intelligence & Reasoning, General Awareness.",
+                "preparation": [
+                    "Focus on basic to intermediate math concepts.",
+                    "Stay updated with recent events and news.",
+                    "Practice logical reasoning puzzles and questions."
+                ],
+                "links": [
+                    {"text": "Official RRB Website", "url": "https://www.rrbcdg.gov.in/"}
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "title": "SSC CHSL Tier 1",
+            "date": "April 2027",
+            "description": "Staff Selection Commission Combined Higher Secondary Level Tier 1 exam.",
+            "details": {
+                "eligibility": "12th class or equivalent examination from a recognized board.",
+                "syllabus": "English Language, General Intelligence, Quantitative Aptitude, and General Awareness.",
+                "preparation": [
+                    "Revise fundamental concepts of math.",
+                    "Improve vocabulary for the English section.",
+                    "Solve previous year's papers to understand the pattern."
+                ],
+                "links": [
+                    {"text": "Official SSC Website", "url": "https://ssc.nic.in/"}
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "title": "SBI PO Prelims",
+            "date": "December 2026",
+            "description": "State Bank of India Probationary Officer preliminary exam.",
+            "details": {
+                "eligibility": "Bachelor's degree from a recognized university.",
+                "syllabus": "English Language, Quantitative Aptitude, and Reasoning Ability.",
+                "preparation": [
+                    "Focus on high-speed problem-solving.",
+                    "Attempt sectional and full-length mock tests.",
+                    "Practice banking awareness questions."
+                ],
+                "links": [
+                    {"text": "Official SBI Careers", "url": "https://sbi.co.in/careers"}
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "title": "LIC AAO Exam",
+            "date": "February 2027",
+            "description": "Life Insurance Corporation of India Assistant Administrative Officer exam.",
+            "details": {
+                "eligibility": "Bachelor's degree from a recognized university.",
+                "syllabus": "Reasoning Ability, Quantitative Aptitude, and English Language.",
+                "preparation": [
+                    "Strengthen logical and analytical skills.",
+                    "Practice with previous years' questions.",
+                    "Stay updated on insurance sector news."
+                ],
+                "links": [
+                    {"text": "Official LIC Website", "url": "https://licindia.in/"}
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "title": "CTET Exam",
+            "date": "January 2027",
+            "description": "Central Teacher Eligibility Test for teaching positions.",
+            "details": {
+                "eligibility": "Varies by post, generally a teaching diploma or degree is required.",
+                "syllabus": "Child Development and Pedagogy, Language I & II, Mathematics, Environmental Studies.",
+                "preparation": [
+                    "Understand pedagogical concepts.",
+                    "Practice teaching-based questions.",
+                    "Review 1st to 8th class NCERT books."
+                ],
+                "links": [
+                    {"text": "Official CTET Website", "url": "https://ctet.nic.in/"}
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "title": "AFCAT Exam",
+            "date": "August 2026",
+            "description": "Air Force Common Admission Test for officers in the Indian Air Force.",
+            "details": {
+                "eligibility": "Graduation in any discipline for Flying Branch, specific degrees for Ground Duty.",
+                "syllabus": "General Awareness, Verbal Ability, Numerical Ability, and Reasoning.",
+                "preparation": [
+                    "Stay updated on defense and security news.",
+                    "Improve mental calculation speed.",
+                    "Practice logical reasoning questions."
+                ],
+                "links": [
+                    {"text": "Official AFCAT Website", "url": "https://afcat.cdac.in/"}
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "title": "NABARD Grade A",
+            "date": "September 2026",
+            "description": "National Bank for Agriculture and Rural Development Grade A officer exam.",
+            "details": {
+                "eligibility": "Bachelor's degree in any subject from a recognized university.",
+                "syllabus": "General Awareness, Economic & Social Issues, Agriculture & Rural Development.",
+                "preparation": [
+                    "Follow economic and agricultural news.",
+                    "Study relevant government schemes.",
+                    "Practice previous years' question papers."
+                ],
+                "links": [
+                    {"text": "Official NABARD Website", "url": "https://www.nabard.org/"}
+                ]
+            }
+        }
+    ],
+    "notifications": [
+        {
+            "id": 1,
+            "title": "UPSC CSE Prelims Application Window",
+            "date": "December 1, 2025",
+            "type": "deadline",
+            "message": "The application window for UPSC Civil Services Prelims is now open! Apply before the last date."
+        },
+        {
+            "id": 2,
+            "title": "Upcoming Webinar: Career in Government Sector",
+            "date": "September 20, 2025",
+            "type": "reminder",
+            "message": "Join our live webinar with a senior government official this Saturday to learn more about a career in civil services."
+        },
+        {
+            "id": 3,
+            "title": "SSC CGL Exam Date Announced",
+            "date": "September 5, 2025",
+            "type": "update",
+            "message": "The official exam dates for SSC CGL Tier 1 have been announced. Check the official website for details."
+        },
+        {
+            "id": 4,
+            "title": "Scholarship Alert!",
+            "date": "September 4, 2025",
+            "type": "deadline",
+            "message": "The deadline for the National Talent Search Examination (NTSE) scholarship is approaching. Don't forget to submit your application."
+        },
+        {
+            "id": 5,
+            "title": "New Blog Post: 'How to Choose the Right College'",
+            "date": "September 3, 2025",
+            "type": "general",
+            "message": "Read our latest article that provides a step-by-step guide on selecting the best college for your career path."
+        },
+        {
+            "id": 6,
+            "title": "Important: IBPS PO Prelims Admit Card",
+            "date": "September 2, 2025",
+            "type": "reminder",
+            "message": "Your admit card for the IBPS PO preliminary exam is now available for download on the official portal."
+        }
+    ],
+    "searchable_content": [
+        {
+            "title": "JEE Main Exam",
+            "type": "Exam",
+            "description": "Joint Entrance Examination for admission to various undergraduate engineering courses.",
+            "url": "https://jeemain.nta.ac.in/"
+        },
+        {
+            "title": "NEET Application Form",
+            "type": "Application",
+            "description": "National Eligibility cum Entrance Test for medical and dental courses.",
+            "url": "https://neet.nta.nic.in/"
+        },
+        {
+            "title": "CUET Exam",
+            "type": "Exam",
+            "description": "Common University Entrance Test for admission to central universities.",
+            "url": "https://cuet.samarth.ac.in/"
+        },
+        {
+            "title": "CLAT Application Form",
+            "type": "Application",
+            "description": "Common Law Admission Test for law courses.",
+            "url": "https://consortiumofnlus.ac.in/"
+        },
+        {
+            "title": "UPSC Civil Services Exam",
+            "type": "Exam",
+            "description": "Union Public Service Commission conducts this exam for recruitment to various Civil Services of the Government of India.",
+            "url": "https://www.upsc.gov.in/"
+        },
+        {
+            "title": "SSC CGL Exam",
+            "type": "Exam",
+            "description": "Staff Selection Commission Combined Graduate Level Exam is for various Group 'B' and 'C' posts in ministries and departments of the Indian government.",
+            "url": "https://ssc.nic.in/"
+        },
+        {
+            "title": "IBPS PO Exam",
+            "type": "Exam",
+            "description": "Institute of Banking Personnel Selection Probationary Officer Exam for recruitment of officers in public sector banks.",
+            "url": "https://www.ibps.in/"
+        },
+        {
+            "title": "RRB NTPC Exam",
+            "type": "Exam",
+            "description": "Railway Recruitment Board Non-Technical Popular Categories Exam for various posts in the Indian Railways.",
+            "url": "https://www.rrbcdg.gov.in/"
+        },
+        {
+            "title": "SSC CHSL Exam",
+            "type": "Exam",
+            "description": "Staff Selection Commission Combined Higher Secondary Level Exam for data entry operator, LDC, and other posts.",
+            "url": "https://ssc.nic.in/"
+        },
+        {
+            "title": "SBI PO Exam",
+            "type": "Exam",
+            "description": "State Bank of India Probationary Officer Exam is for the selection of Probationary Officers in SBI branches across India.",
+            "url": "https://sbi.co.in/careers"
+        },
+        {
+            "title": "LIC AAO Exam",
+            "type": "Exam",
+            "description": "Life Insurance Corporation of India Assistant Administrative Officer Exam for various posts in LIC.",
+            "url": "https://licindia.in/"
+        },
+        {
+            "title": "CTET Exam",
+            "type": "Exam",
+            "description": "Central Teacher Eligibility Test is conducted to determine the eligibility for teachers for classes 1 to 8.",
+            "url": "https://ctet.nic.in/"
+        },
+        {
+            "title": "AFCAT Exam",
+            "type": "Exam",
+            "description": "Air Force Common Admission Test is for the recruitment of officers in flying and ground duty branches.",
+            "url": "https://afcat.cdac.in/"
+        },
+        {
+            "title": "NABARD Grade A Exam",
+            "type": "Exam",
+            "description": "National Bank for Agriculture and Rural Development Grade A Exam for Assistant Manager posts.",
+            "url": "https://www.nabard.org/"
+        }
+    ]
+}
